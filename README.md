@@ -58,7 +58,7 @@ This project serves as a strong foundation and can be expanded further with the 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/todo-app.git
+   git clone https://github.com/your-repo/ToDo-List.git
    ```
 
 2. Open the project folder in Visual Studio Code.
